@@ -1,8 +1,8 @@
 /* Author = Chauhan Abhishek */
 /* Codechef Id = abhishekchauha */
-/* Codeforces Id = abhishekchauhan903 */
+/* Codeforces Id = https://codeforces.com/profile/abhishekchauhan903 */
 /* Newton School Id = https://my.newtonschool.co/user/abhishekchauhan9036/ */
-/* GitHub Id = AbhishekChauhan9036 */
+/* GitHub Id = https://github.com/AbhishekChauhan9036 */
 /* Language = JAVA */
 /* Address = Ballia,UP,INDIA (221716)*/
 
