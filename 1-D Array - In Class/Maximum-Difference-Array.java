@@ -1,12 +1,18 @@
-import java.io.*; // for handling input/output
-import java.util.*; // contains Collections framework
+/* Author = Chauhan Abhishek */
+/* Codechef Id = https://www.codechef.com/users/abhishekchauha */
+/* Codeforces Id = https://codeforces.com/profile/abhishekchauhan903 */
+/* Newton School Id = https://my.newtonschool.co/user/abhishekchauhan9036/ */
+/* GitHub Id = https://github.com/AbhishekChauhan9036 */
+/* Language = JAVA */
+/* Address = Ballia,UP,INDIA (221716)*/
 
-// don't change the name of this class
-// you can add inner classes if needed
+/******************************************************************************************************************************************/
+/***********Start****************/
+import java.io.*;
+import java.util.*;
 class Main {
 	public static void main (String[] args) {
-                      // Your code here
-					  	  Scanner sc = new Scanner(System.in);
+    Scanner sc = new Scanner(System.in);
 	int maxDiff = -1;
 	int n =sc.nextInt();
 	int [] arr = new int[n];
@@ -30,3 +36,5 @@ class Main {
 	   System.out.println(maxDist);
 	}
 }
+/******************************************************************************************************************************************/
+/***********End****************/
