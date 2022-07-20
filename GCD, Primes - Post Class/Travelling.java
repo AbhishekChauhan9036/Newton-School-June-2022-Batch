@@ -1,4 +1,4 @@
-import java.io.*; // for handling input/output
+import java.io.*; // for handling input/output..
 import java.util.*; // contains Collections framework...
 class Main {
 static int gcd(int a, int b)
