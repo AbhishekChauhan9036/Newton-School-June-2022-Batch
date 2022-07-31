@@ -32,7 +32,7 @@ public static Node deleteElement(Node head, int k) {
 
     //create link between s.next and s.next.next
     if(start.next.next == null){
-        //deleting element;
+     
         start.next = null;
         return head;
     }
