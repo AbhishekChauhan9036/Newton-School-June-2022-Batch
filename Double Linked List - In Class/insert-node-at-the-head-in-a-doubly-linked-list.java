@@ -1,4 +1,4 @@
-/*
+/*..
 
 class Node {
     Node next;
